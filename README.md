@@ -4,7 +4,7 @@
 
 The [KARMA project](http://karma-project.org/) aims to achieve a better karst groundwater management across the scale of the Mediterranean area, single catchments and selected springs
 
-Artificial Neural Network (ANN) modeling has been performed to model karst spring discharge time series. Finde example code in the according subdirectory. 
+Artificial Neural Network (ANN) modeling has been performed to model karst spring discharge time series. Find example code in the according subdirectory. 
 
 <img src="prima.jpg" width="600" />  
 
