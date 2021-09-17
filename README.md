@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/394317573.svg)](https://zenodo.org/badge/latestdoi/394317573)  
+
 [<img src="KARMA_Logo.jpg" width="400" />](http://karma-project.org/) 
 
 ## Karst Aquifer Resources availability and quality in the Mediterranean Area
